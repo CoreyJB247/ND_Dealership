@@ -1,6 +1,6 @@
 return {
     ["LSPD"] = {
-        { model = `rav4hyb`, price = 0, label = "LSPD Detective 2024 Toyota Rav4" },
+        { model = `rav4hyb`, price = 0, label = "LSPD Detective 2024 Toyota Rav4 Hybrid" },
         { model = `25umfpiu`, price = 0, label = "LSPD Detective 2025 Ford Explorer" },
         { model = `umdet1`, price = 0, label = "LSPD Detective 2022 Dodge Durango" },
         
@@ -38,7 +38,7 @@ return {
 { model = `hpcamaro`, price = 0, label = "SAHP 2014 Chevy Camaro" },
 { model = `hpvette`, price = 0, label = "SAHP 2023 Chevy Corvette" },
 { model = `hptahoe2`, price = 0, label = "SAHP 2022 Chevy Tahoe" },
-{ model = `hptruck`, price = 0, label = "SAHP 2018 Ford F-150" },
+{ model = `hptruck`, price = 0, label = "SAHP 2018 Ford F-150 PR" },
 { model = `hpmustang2`, price = 0, label = "SAHP 2024 Ford Mustang" },
     },
     ["GSPD"] = {
